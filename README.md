@@ -1,5 +1,5 @@
 # Time-Related Heatmap
-I have developed a Time-Related Heatmap using a customized C# algorithm in the Unity to visualise, tracking labors’ location.
+I have developed a Time-Related Heatmap using a customized C# algorithm in Unity to visualise, tracking labors’ location.
 
 ## How to Use
 After running it in Unity
