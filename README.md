@@ -14,5 +14,8 @@ After running it in Unity
 
 ## Animation
 
-![Gif](https://user-images.githubusercontent.com/64426415/138857385-5db2876e-c5f1-4f99-8431-148b01e36fa9.gif)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/64426415/138857385-5db2876e-c5f1-4f99-8431-148b01e36fa9.gif">
+</p>
+
 
