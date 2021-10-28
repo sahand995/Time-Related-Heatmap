@@ -1,16 +1,6 @@
-# Time-Related Heatmap
-I have developed a Time-Related Heatmap using a customized C# algorithm in Unity to visualise, tracking construction workers’ location. (*Under development*)
+# Time-Related Crowd Occupancy Heat-map:
+Using a customized C# algorithm, I have developed a Time-Related Heat-map that plots the movement and occupancy concentration of any moving object on a 2D surface plain. The tool can be used for various use cases such as visualizing and tracking workers’ location, as well as the high occupancy pin points in a construction site.
 
-## How to Use
-After running it in Unity
-
-### First Labor
-* If you press **Up Arrow Key** on your keyboard, the labor move forward.
-* If you press **Left Arrow Key** and **Right Arrow Key** on your keyboard, the labor trun left and turn right respectively.
-
-### Second Labor
-* If you press **W** on your keyboard, the labor move forward.
-* If you press **A** and **D** on your keyboard, the labor trun left and turn right respectively.
 
 ## Animation
 
